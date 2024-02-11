@@ -1,2 +1,0 @@
-# scottie.io
-scottie.io
